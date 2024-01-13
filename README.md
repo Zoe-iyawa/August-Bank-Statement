@@ -1,7 +1,8 @@
 # August-Bank-Statement
 # Introduction
 
-This is project is a Income and Expense dashboard that utilised a bank statement dataset sourced from Kaggle to provide insightful visualization of a spending pattern during the month of August.  The dashboard was designed using the Tableau software which allowed us to track the average weekday spend, daily credit and debit transactions and number of purchases per category.
+This is project is a Income and Expense dashboard that utilised a bank statement dataset sourced from Kaggle to provide insightful visualization of a spending pattern during the month of August.  The dashboard was designed using the Tableau software which allowed us to track the average weekday spend, daily credit and debit transactions and number of purchases per category. 
+The tableau visualization can be found here:(https://public.tableau.com/app/profile/zoe.philip.iyawa/vizzes)
 
 ## Dataset 
 The dataset for this dashboard contains the following attributes
