@@ -16,7 +16,7 @@ The dataset for this dashboard contains the following attributes
 ## Dashboard Features
 The Income and expense dashboard provides the following key features:
 1. Average Spend by Weekday: A visual represenation of average spend each day. This helps to identify which day you tend to spend more. The data revealed that Monday was the day with the highest spend rate due to the category named Rent.
-2. Number of Purchases by Category: Insights into the number of transactions per category. This helps you understand what you spend the majority of your money.
+2. Number of Purchases by Category: Insights into the number of transactions per category. This helps you understand what you spend the majority of your money on.
 3. Spend by Category: This visual shows the total spend in each category. This allows us to identify what you spend the most on and plan accordingly.
 
 ## Data Source
