@@ -19,6 +19,7 @@ The Income and expense dashboard provides the following key features:
 1. Average Spend by Weekday: A visual represenation of average spend each day. This helps to identify which day you tend to spend more. The data revealed that Monday was the day with the highest spend rate due to the category named Rent.
 2. Number of Purchases by Category: Insights into the number of transactions per category. This helps you understand what you spend the majority of your money on.
 3. Spend by Category: This visual shows the total spend in each category. This allows us to identify what you spend the most on and plan accordingly.
+4. Daily Credit and Debit: This visual shows the expense and income received daily. Friday was identified as the day with the highest credit amount. This is due to a category called Salary. 
 
 ## Data Source
 You can find the dataset used for this project here (https://www.kaggle.com/datasets/sandhaya4u/august-bank-statement-sandhaya)
